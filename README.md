@@ -19,11 +19,10 @@
 
 ### Languages and Tools:
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
 
 
@@ -31,7 +30,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 
 <br />
 <br />
